@@ -1,3 +1,4 @@
+package  Ampliacion;
 import java.util.Scanner;
 
 /**
